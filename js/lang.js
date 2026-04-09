@@ -85,7 +85,7 @@ const translations = {
     inscripcioGratuita: "Gratuïta",
     inscripcioLimit: "Places limitades",
     inscripcioConfirm: "Rebràs confirmació per correu electrònic en un termini màxim de 48 hores.",
-    inscripcioDeadline: "1 de maig de 2025",
+    inscripcioDeadline: "1 de maig de 2026",
 
     // Contacto
     contacteTitle: "Contacte - I Jornada d’Acollida Sociolingüística",
@@ -502,7 +502,7 @@ const translations = {
     inscripcioGratuita: "Gratuita",
     inscripcioLimit: "Plazas limitadas",
     inscripcioConfirm: "Recibirás confirmación por correo electrónico en un plazo máximo de 48 horas.",
-    inscripcioDeadline: "1 de mayo de 2025",
+    inscripcioDeadline: "1 de mayo de 2026",
 
     //Contacto
     contacteTitle: "Contacto - I Jornada de Acogida Sociolingüística",
@@ -903,7 +903,7 @@ const translations = {
     inscripcioGratuita: "Free",
     inscripcioLimit: "Limited places",
     inscripcioConfirm: "You will receive confirmation by email within a maximum of 48 hours.",
-    inscripcioDeadline: "May 1, 2025",
+    inscripcioDeadline: "May 1, 2026",
 
     //Contacto
     contacteTitle: "Contact - 1st Sociolinguistic Welcome Conference",
