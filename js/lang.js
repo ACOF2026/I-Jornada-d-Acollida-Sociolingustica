@@ -465,7 +465,7 @@ const translations = {
     
     // Index & General
     titlePage: "I Jornada de Acogida Sociolingüística | 8 de mayo 2026 · Barcelona",
-    heroTitle: "I Jornada de Acogida Sociolingüística",
+    heroTitle: "La acogida: un derecho, una red, un futuro",
     heroDate: "8 de mayo de 2026 · Barcelona",
     sectionQuisomTitle: "¿Qué es la jornada?",
     quisomP1: "Las entidades de la <b>Coordinadora de la Lengua de Barcelona</b> organizan una jornada el 8 de mayo a la Asociación de Maestras Rosa Sensat dedicada a la acogida sociolingüística de personas migradas jóvenes y adultas. El objetivo es crear un espacio de <b>visibilización, formación y debate</b> sobre la tarea que hacen varios agentes educativos y sociales de la ciudad.",
@@ -866,7 +866,7 @@ const translations = {
     footerText: "Questions about your privacy? Write to us at",
 
     titlePage: "1st Sociolinguistic Welcome Conference | May 8, 2026 · Barcelona",
-    heroTitle: "1st Sociolinguistic Welcome Conference",
+    heroTitle: "The reception: a right, a network, a futureThe reception: a right, a network, a future",
     heroDate: "May 8, 2026 · Barcelona",
     sectionQuisomTitle: "What is the conference?",
     quisomP1: "The entities of the <b>Coordinadora de la Llengua de Barcelona</b> organize a conference on May 8 at the Rosa Sensat Teachers Association dedicated to the sociolinguistic reception of young and adult migrants. The aim is to create a space for <b>visibility, training and debate</b> on the work carried out by various educational and social agents in the city.",
