@@ -866,7 +866,7 @@ const translations = {
     footerText: "Questions about your privacy? Write to us at",
 
     titlePage: "1st Sociolinguistic Welcome Conference | May 8, 2026 · Barcelona",
-    heroTitle: "The reception: a right, a network, a futureThe reception: a right, a network, a future",
+    heroTitle: "The reception: a right, a network, a future",
     heroDate: "May 8, 2026 · Barcelona",
     sectionQuisomTitle: "What is the conference?",
     quisomP1: "The entities of the <b>Coordinadora de la Llengua de Barcelona</b> organize a conference on May 8 at the Rosa Sensat Teachers Association dedicated to the sociolinguistic reception of young and adult migrants. The aim is to create a space for <b>visibility, training and debate</b> on the work carried out by various educational and social agents in the city.",
