@@ -159,8 +159,9 @@ function loadFooter() {
         </div>
 
         <!-- Copyright -->
-        <div class="border-t border-gray-800 mt-6 pt-8 text-center text-xs text-gray-500" data-key="pieCredi">
-          © 2026 I Jornada d’Acollida Sociolingüística · Tots els drets reservats
+        <div class="border-t border-gray-800 mt-6 pt-8 text-center text-xs text-gray-500" >
+          <p data-key="pieCredi">© 2026 I Jornada d’Acollida Sociolingüística · Tots els drets reservats</p>
+          <a href='politica-cookies.html' class='text-[#7a044b] font-medium hover:underline' data-key='cookieLink'>Política de Cookies</a>
         </div>
 
       </div>
