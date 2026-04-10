@@ -343,7 +343,7 @@ const translations = {
 
     // Comunicación E
     comE_Title: "COMUNICACIÓ E — L’acollida en primera persona",
-    comE_Desc: "Una sessió de diàleg amb testimonis sobre l’experiència d’acollida sociolingüística en un context bilingüe. Es revisen creences sobre l’ús del català, s’identifiquen bones pràctiques i s’exploren estratègies per reforçar-ne l’ús entre persones de nivell inicial.",
+    comE_Desc: "Una sessió de diàleg amb testimonis sobre l’experiència d’acollida sociolingüística en un context multilingüe . Es revisen creences sobre l’ús del català, s’identifiquen bones pràctiques i s’exploren estratègies per reforçar-ne l’ús entre persones de nivell inicial.",
     comE_Name: "Emma Navó",
     comE_Target: "Alumnat, professorat, tècniques i voluntariat",
     comE_Bio: "Filòloga i psicoterapeuta especialitzada en mediació i conflictes. Té més de vint anys d’experiència al CPNL en dinamització i foment de l’ús del català, treballant en xarxa amb entitats i serveis per promoure comunitats lingüísticament vives i inclusives.",
@@ -748,7 +748,7 @@ const translations = {
 
     // Comunicación E
     comE_Title: "COMUNICACIÓN E — La acogida en primera persona",
-    comE_Desc: "Una sesión de diálogo con testimonios sobre la experiencia de acogida sociolingüística en un contexto bilingüe. Se revisan creencias sobre el uso del catalán, se identifican buenas prácticas y se exploran estrategias para reforzar su uso entre personas de nivel inicial.",
+    comE_Desc: "Una sesión de diálogo con testimonios sobre la experiencia de acogida sociolingüística en un contexto multilingüe . Se revisan creencias sobre el uso del catalán, se identifican buenas prácticas y se exploran estrategias para reforzar su uso entre personas de nivel inicial.",
     comE_Name: "Emma Navó",
     comE_Target: "Alumnado, profesorado, personal técnico y voluntariado",
     comE_Bio: "Filóloga y psicoterapeuta especializada en mediación y conflictos. Cuenta con más de veinte años de experiencia en el CPNL en dinamización y fomento del uso del catalán, trabajando en red con entidades y servicios para promover comunidades lingüísticamente vivas e inclusivas.",
@@ -1151,7 +1151,7 @@ const translations = {
 
     // Communication E
     comE_Title: "COMMUNICATION E — Reception from a first-person perspective",
-    comE_Desc: "A dialogue session with testimonies about sociolinguistic reception experiences in a bilingual context. It reviews beliefs about the use of Catalan, identifies best practices, and explores strategies to strengthen its use among beginner-level learners.",
+    comE_Desc: "A dialogue session with testimonies about sociolinguistic reception experiences in a multilingual context. It reviews beliefs about the use of Catalan, identifies best practices, and explores strategies to strengthen its use among beginner-level learners.",
     comE_Name: "Emma Navó",
     comE_Target: "Students, teachers, technical staff and volunteers",
     comE_Bio: "Philologist and psychotherapist specialized in mediation and conflict resolution. She has more than twenty years of experience at CPNL promoting the use of Catalan, working with organizations and services to foster linguistically vibrant and inclusive communities.",
