@@ -50,28 +50,32 @@ const translations = {
     titlePage: "I Jornada d’Acollida Sociolingüística | 8 de maig 2026 · Barcelona",
     heroTitle: "L'acollida: un dret, una xarxa, un futur",
     heroDate: "8 de maig de 2026 · Barcelona",
-    sectionQuisomTitle: "Què és la jornada?",
+
+    sectionQuisomTitle: "Què és la Jornada?",
     quisomP1: " Les entitats de la <b>Coordinadora de la Llengua de Barcelona</b> organitzen una jornada el 8 de maig a l'Associació de Mestres Rosa Sensat dedicada a l’acollida sociolingüística de persones migrades joves i adultes. L’objectiu és crear un espai de <b>visibilització, formació i debat</b> sobre la tasca que fan diversos agents educatius i socials de la ciutat.",
-    quisomP2: "La jornada reunirà professionals, voluntariat, docents, figures investigadores, responsables de polítiques públiques i persones participants en aquests processos per compartir experiències i analitzar reptes i èxits. També vol reforçar la formació en pràctiques inclusives, especialment davant la manca d’itineraris universitaris específics, i explorar millores en recursos, metodologies i coordinació.",
+    quisomP2: "La Jornada reunirà professionals, voluntariat, docents, figures investigadores, responsables de polítiques públiques i persones participants en aquests processos per compartir experiències i analitzar reptes i èxits. També vol reforçar la formació en pràctiques inclusives, especialment davant la manca d’itineraris universitaris específics, i explorar millores en recursos, metodologies i coordinació.",
     quisomP3: "En conjunt, l’esdeveniment busca fomentar la col·laboració i crear una xarxa que contribueixi a una Barcelona més inclusiva, acollidora i diversa.",
+
     llocTitle: "Lloc de l'esdeveniment",
     llocVenue: "Associació de Mestres Rosa Sensat",
     llocAddress: "Avinguda de les Drassanes, 3, 08001 Barcelona",
+
     arribarTitle: "Com arribar-hi",
     transportMetroLabel: "Metro:",
     transportMetroText: "Línia 3 (Drassanes)",
     transportBusLabel: "Bus:",
     transportBusText: "Línies 14, 59, 91, D20, H14",
-    transportTramLabel: "Tram:",
-    transportTramText: "T1, T2, T3 (Parada Drassanes)",
     transportBiciLabel: "Bicicleta:",
     transportBiciText: "Bicing disponible a la zona",
+
     horariTitle: "Horari del centre",
-    horariText: "El centre estarà obert a partir de les 8:15 h per a l'acreditació.",
+    horariText: "El centre estarà obert a partir de les 8.15 h per a l'acreditació.",
+
     mapsLinkText: "Com arribar-hi amb Google Maps",
+
     inscripcioTitlei: "Inscripció ",
     inscripcioText: "La inscripció és gratuïta i les places són limitades.",
-    inscripcioBtn: "Inscriu-te ara ",
+    inscripcioBtn: "Inscriu-t’hi ara",
 
     // Inscripcion
     inscripcioTitle: "Inscripció - I Jornada d’Acollida Sociolingüística",
@@ -106,72 +110,74 @@ const translations = {
     contacteItem1: '<i class="fa-solid fa-circle text-[#7a044b]/50 text-xs mt-1.5"></i> Inscripcions i places',
     contacteItem2: '<i class="fa-solid fa-circle text-[#7a044b]/50 text-xs mt-1.5"></i> Propostes de comunicacions, tallers o pòsters',
     contacteItem3: '<i class="fa-solid fa-circle text-[#7a044b]/50 text-xs mt-1.5"></i> Col·laboracions i patrocinis',
-
     contacteNotaFinal: "Coordinadora de la Llengua de Barcelona<br>Us esperem amb il·lusió a la I Jornada d’Acollida Sociolingüística!",
+
 
 
     // Programa
     pageTitle: "Programa - I Jornada d’Acollida Sociolingüística",
     progHeroTitle: "Programa de la Jornada",
-    heroTime: "8:30 h - 14:45 h",
-    downloadBtn: "Descarregar programa en PDF",
+    heroTime: "8.30 - 14.45 h",
+    downloadBtn: "Descarrega’t el programa en PDF",
 
-    card0_Title: "Acreditació i Acollida",
-    card1_Title: "Obertura de la jornada",
+    card0_Title: "Acreditació i acollida",
+    card1_Title: "Obertura de la Jornada",
     card2_Title: "Sessió inaugural",
-    card3_Title: "Tallers simultanis ",
+    card3_Title: "Tallers simultanis",
     card4_Title: "Pausa cafè i networking",
     card5_Title: "Comunicacions simultànies",
     card6_Title: "Taula rodona",
     card7_Title: "Cloenda",
 
     min30: "30 min", min60: "60 min", min45: "45 min", min15: "15 min", min75: "1h 15 min",
-    content0: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-id-card text-3xl text-[#7a044b]'></i><p>De 8:30 a 9:15 h. Recepció dels participants i lliurament d’acreditacions.</p></div>",
-    content1: `
-  <div class="bg-white border border-gray-100 rounded-3xl p-6 md:p-8 shadow-sm overflow-hidden">
 
-  <!-- Cabecera con franja de color -->
+    content0: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-id-card text-3xl text-[#7a044b]'></i><p>De 8.30 a 9.15 h. Recepció dels participants i lliurament d’acreditacions.</p></div>",   
+    content1: `
+<div class="bg-white border border-gray-100 rounded-3xl p-6 md:p-8 shadow-sm overflow-hidden">
+
   <div class="flex items-center gap-4 -mx-6 -mt-6 md:-mx-8 md:-mt-8 px-6 md:px-8 py-5 md:py-6 text-[#7a044b] mb-8">
     <i class="fa-solid fa-microphone-lines text-3xl md:text-4xl opacity-90"></i>
     <div>
-      <p class="font-semibold text-sm md:text-base text-gray-800">9:30 – 9:45 h.</p>
-      <p class="text-lg md:text-xl font-semibold leading-tight">Obertura de la jornada - Presentació oficial</p>
+      <p class="font-semibold text-sm md:text-base text-gray-800">9.15 – 9.45 h.</p>
+      <p class="text-lg md:text-xl font-semibold leading-tight">Obertura de la Jornada - Presentació oficial</p>
     </div>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
 
     <!-- Vanessa Bretxa -->
-    <div class="resMo flex gap-4 md:gap-5 group">
-      <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white">
-        <img src="img/Vanessa Bretxa.jpeg" 
-             alt="Vanessa Bretxa" 
-             class="w-full h-full object-cover">
-      </div>
-      <div class="pt-1">
-        <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Vanessa Bretxa</h4>
-        <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Directora General d’Accés al Coneixement i Impuls de l’Ús del Català</p>
-        <p class="text-sm text-gray-500 mt-2">Departament de Política Lingüística</p>
+    <div class="flex gap-4">
+      <img src="img/Vanessa Bretxa.jpeg" class="w-24 h-24 md:w-32 md:h-32 rounded-2xl object-cover shadow-md">
+      <div>
+        <h4 class="font-bold">Sra. Vanessa Bretxa</h4>
+        <p class="text-[#7a044b] font-semibold text-sm">Directora General d’Accés al Coneixement i Impuls de l’Ús del Català</p>
+        <p class="text-sm text-gray-500">Departament de Política Lingüística</p>
       </div>
     </div>
 
     <!-- David Moya -->
-    <div class="resMo flex gap-4 md:gap-5 group">
-      <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white">
-        <img src="img/foto_david_moya.jpeg" 
-             alt="David Moya" 
-             class="w-full h-full object-cover">
+    <div class="flex gap-4">
+      <img src="img/foto_david_moya.jpeg" class="w-24 h-24 md:w-32 md:h-32 rounded-2xl object-cover shadow-md">
+      <div>
+        <h4 class="font-bold">Sr. David Moya</h4>
+        <p class="text-[#7a044b] font-semibold text-sm">Director General de Migracions i Refugi</p>
+        <p class="text-sm text-gray-500">Departament de Drets Socials</p>
       </div>
-      <div class="pt-1">
-        <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. David Moya</h4>
-        <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Director General de Migracions i Refugi</p>
-        <p class="text-sm text-gray-500 mt-2">Departament de Drets Socials</p>
+    </div>
+
+    <!-- Marta Salicrú -->
+    <div class="flex gap-4">
+      <img src="img/Marta Salicrú Comissionada d'Ús Socal del Català.jpg" class="w-24 h-24 md:w-32 md:h-32 rounded-2xl object-cover shadow-md">
+      <div>
+        <h4 class="font-bold">Sra. Marta Salicrú</h4>
+        <p class="text-[#7a044b] font-semibold text-sm">Comissionada d’Ús Social del Català</p>
+        <p class="text-sm text-gray-500">Ajuntament de Barcelona</p>
       </div>
     </div>
 
   </div>
 </div>
-    `,
+`,
     content2: `
         <div class="bg-white border border-gray-100 rounded-3xl p-8 shadow-sm overflow-hidden">
             
@@ -181,14 +187,14 @@ const translations = {
                     <i class="fa-solid fa-comments text-3xl text-[#7a044b]"></i>
                 </div>
                 <div>
-                    <p class="text-base font-semibold text-gray-800">9:45 h - 10:15 h.</p>
+                    <p class="text-base font-semibold text-gray-800">9.45 h - 10.15 h.</p>
                     <p class="text-[#7a044b] font-medium">Sessió inaugural</p>
                 </div>
             </div>
 
             <div class="flex flex-col lg:flex-row gap-10">
                 
-                <!-- Imagen lateral (más pequeña) -->
+                <!-- Imagen lateral -->
                 <div class="lg:w-72 flex-shrink-0">
                     <div class="aspect-square w-full bg-gray-100 rounded-3xl overflow-hidden shadow-md">
                         <img src="img/Sessió inaugural Manuela.jpeg" 
@@ -200,7 +206,7 @@ const translations = {
                 <!-- Contenido textual -->
                 <div class="flex-1">
                     <h3 class="text-2xl font-bold leading-tight text-gray-900 mb-5">
-                        Professionals que connecten, comunitats que creixen: Reconeixement i xarxa en l’aprenentatge de llengües
+                        Professionals que connecten, comunitats que creixen: reconeixement i xarxa en l’aprenentatge de llengües
                     </h3>
                     
                     <div class="mb-6">
@@ -209,9 +215,11 @@ const translations = {
                     </div>
 
                     <div class="prose prose-gray text-justify prose-base max-w-none leading-relaxed text-gray-600">
-                        <p>Mª Manuela Simancas és professora de l’àmbit TIC i directora del CFA Pau Casals de Rubí. Compagina aquesta tasca amb la docència universitària a la Universitat Autònoma de Barcelona.
-                        Amb 28 anys d’experiència, la seva trajectòria està vinculada a l’àmbit educatiu i al compromís amb el paper transformador de l’educació. Ha treballat en educació primària, secundària, centres penitenciaris, formació d’adults i universitat.
-                        Actualment centra la seva tasca en la investigació educativa, promovent la connexió entre entitats i defensant l’aprenentatge al llarg de la vida, especialment en educació d’adults.</p>
+                        <p>M. Manuela Simancas és professora de l’àmbit TIC i directora del CFA Pau Casals de Rubí. Compagina aquesta tasca amb la docència 
+                        universitària a la Universitat Autònoma de Barcelona. Amb 28 anys d’experiència, la seva trajectòria està vinculada a l’àmbit educatiu i 
+                        al compromís amb el paper transformador de l’educació. Ha treballat en educació primària, secundària, centres penitenciaris, formació d’adults 
+                        i universitat. Actualment centra la seva tasca en la investigació educativa, promovent la connexió entre entitats i defensant l’aprenentatge 
+                        al llarg de la vida, especialment en educació d’adults.</p>
                     </div>
                 </div>
             </div>
@@ -219,7 +227,7 @@ const translations = {
     `,
 
     // CAFE Y PAUSA
-    content4: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-mug-hot text-3xl text-[#7a044b]'></i><p>Aquest espai ofereix una pausa amb pica-pica per compartir, conèixer-se i intercanviar experiències entre agents, professionals i entitats implicades en l’acollida sociolingüística. A més, inclou una exposició de pòsters que mostren les entitats, expliquen la seva tasca i visibilitzen la feina feta. Una oportunitat per enfortir la xarxa, generar vincles i descobrir sinèrgies que milloren la cooperació i les pràctiques d’acompanyament.</p></div>",
+    content4: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-mug-hot text-3xl text-[#7a044b]'></i><p>Aquest espai ofereix una pausa amb pica-pica per compartir, conèixer-se i intercanviar experiències entre agents, professionals i entitats implicades en l’acollida sociolingüística. A més, inclou una exposició de pòsters que mostren les entitats, expliquen la seva tasca i visibilitzen la feina feta. Una oportunitat per enfortir la xarxa, generar vincles i descobrir sinergies que millorin la cooperació i les pràctiques d’acompanyament.</p></div>",
 
 
     // === TAULA RODONA ===
@@ -242,17 +250,17 @@ const translations = {
 
     // Taller A
     imgProgramaA: "<img src='img/A. Chaymae.jpeg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Chayma Rachdi Mennana'> ",
-    tallerA_Title: "TALLER A — Deskilling, Upskilling i Reskilling: entenem la realitat",
-    tallerA_Desc: "Moltes persones que migren es troben amb canvis importants en les seves trajectòries professionals: pèrdua de qualificació, reorientació o aprenentatge de noves competències. Aquest taller participatiu convida a explorar aquests processos i les seves implicacions professionals i emocionals.<br><br>A partir de dinàmiques vivencials i recorreguts per recursos locals, les persones participants identificaran habilitats pròpies, descobriran noves oportunitats i coneixeran eines per a la requalificació. Un espai per compartir experiències, reflexionar col·lectivament i imaginar camins per construir trajectòries professionals dignes i reconegudes.",
+    tallerA_Title: "TALLER A — Deskilling, upskilling i reskilling: entenem la realitat",
+    tallerA_Desc: "Moltes persones que migren es troben amb canvis importants en les seves trajectòries professionals: pèrdua de qualificació, reorientació o aprenentatge de noves competències. Aquest taller participatiu convida a explorar aquests processos i les seves implicacions professionals i emocionals. <br><br> A partir de dinàmiques vivencials i recorreguts per recursos locals, les persones participants identificaran habilitats pròpies, descobriran noves oportunitats i coneixeran eines per a la requalificació. Un espai per compartir experiències, reflexionar col·lectivament i imaginar camins per construir trajectòries professionals dignes i reconegudes.",
     tallerA_Target: "Alumnat, professorat, tècniques i voluntariat",
     tallerA_Name: "Chayma Rachdi Mennana",
-    tallerA_Bio: "Comunicadora en sensibilització antiracista, investigadora i orientadora laboral. Graduada en Humanitats i amb un màster en Drets Humans i Globalització. Actualment forma part del programa Prometeus, acompanyant joves en els seus itineraris acadèmics. Ha treballat en intervenció, recerca i sensibilització amb persones racialitzades i col·lectius vulnerables, i ha coordinat el servei laboral de la Fundació Bayt al-Thaqafa i projectes d’orientació sociolaboral amb joventut gitana.",
+    tallerA_Bio: "Comunicadora en sensibilització antiracista, investigadora i orientadora laboral. Graduada en Humanitats i amb un màster en Drets Humans i Globalització. Actualment forma part del programa Prometeus, que acompanya joves en els seus itineraris acadèmics. Ha treballat en intervenció, recerca i sensibilització amb persones racialitzades i col·lectius vulnerables, i ha coordinat el servei laboral de la Fundació Bayt al-Thaqafa i projectes d’orientació sociolaboral amb joventut gitana.",
 
     // Taller B
     imgProgramaB: "<img src='img/B. Ana Taller.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Anna Eguia Corral'>",
 
     tallerB_Title: "TALLER B — Voluntariat: un bosc de principis",
-    tallerB_Desc: "Taller participatiu per explorar els sis principis fonamentals del voluntariat: lliure elecció, gratuïtat, compromís, transformació social, participació i organització. Mitjançant una dinàmica pràctica amb peces de fusta de colors, les persones participants construiran una jerarquia compartida d’aquests valors, debatran com assolir-los i reflexionaran sobre quina imatge del voluntariat volen projectar a la societat.<br><br>Un espai per compartir vivències, repensar el significat del compromís voluntari i imaginar maneres de potenciar l’impacte social d’aquestes accions.",
+    tallerB_Desc: "Taller participatiu per explorar els sis principis fonamentals del voluntariat: lliure elecció, gratuïtat, compromís, transformació social, participació i organització. Mitjançant una dinàmica pràctica amb peces de fusta de colors, les persones participants construiran una jerarquia compartida d’aquests valors, debatran com assolir-los i reflexionaran sobre quina imatge del voluntariat volen projectar a la societat. <br><br> Un espai per compartir vivències, repensar el significat del compromís voluntari i imaginar maneres de potenciar l’impacte social d’aquestes accions.",
     tallerB_Target: "Alumnat, professorat, tècniques i voluntariat",
     tallerB_Name: "Anna Eguia Corral",
     tallerB_Bio: "Educadora social amb una àmplia trajectòria en gestió d’equipaments socioculturals: biblioteques, centres oberts, dinamització lectora, animació sociocultural i coordinació de voluntariat. Especialista en formació per a persones voluntàries i professionals del voluntariat.",
@@ -261,7 +269,7 @@ const translations = {
     imgProgramaC: "<img src='img/C. Julia.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Júlia Lompart Esbert'>",
 
     tallerC_Title: "TALLER C — El plurilingüisme a les aules: per a què?",
-    tallerC_Desc: "Taller pràctic adreçat a professionals implicats en l’ensenyament i aprenentatge de llengües en contextos culturalment i lingüísticament diversos. L’objectiu és fomentar la reflexió sobre la diversitat lingüística i proporcionar eines per entendre el paper del plurilingüisme en l’aprenentatge, així com estratègies per aprofitar els recursos lingüístics dels alumnes.<br><br>Un espai per repensar com la riquesa lingüística pot convertir-se en un motor d’aprenentatge i cohesió.",
+    tallerC_Desc: "Taller pràctic adreçat a professionals implicats en l’ensenyament i aprenentatge de llengües en contextos culturalment i lingüísticament diversos. L’objectiu és fomentar la reflexió sobre la diversitat lingüística i proporcionar eines per entendre el paper del plurilingüisme en l’aprenentatge, així com estratègies per aprofitar els recursos lingüístics dels alumnes. <br><br> Un espai per repensar com la riquesa lingüística pot convertir-se en un motor d’aprenentatge i cohesió.",
     tallerC_Target: "Alumnat, professorat, tècniques i voluntariat",
     tallerC_Name: "Júlia Lompart Esbert",
     tallerC_Bio: "Professora agregada de la UAB i doctora en Didàctica de la Llengua i la Literatura. Membre del grup GREIP i investigadora principal del projecte CULT. La seva recerca se centra en l’educació plurilingüe, la mediació lingüística i les pràctiques docents en contextos multilingües, amb especial atenció a les interaccions a l’aula i les polítiques lingüístiques. Combina metodologies etnogràfiques i anàlisi de la conversa.",
@@ -269,8 +277,8 @@ const translations = {
     // Taller D
     imgProgramaD: "<img src='img/D. Vero Cano.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt=''>",
 
-    tallerD_Title: "TALLER D — Biblioteques Humanes: llegir vides, escoltar experiències",
-    tallerD_Desc: "Les Biblioteques Humanes substitueixen llibres per persones que comparteixen la seva història en primera persona. Aquesta metodologia internacional promou el diàleg i la superació de prejudicis a través de l’escolta directa.<br><br>El taller presenta l’origen i els principis de les Biblioteques Humanes i inclou una mostra vivencial: una persona-llibre vinculada a processos de migració i acollida compartirà la seva experiència en un format íntim i dialogat. Un espai segur per generar empatia, trencar estereotips i reconèixer la diversitat lingüística, cultural i vital de la ciutat.",
+    tallerD_Title: "TALLER D — Biblioteques humanes: llegir vides, escoltar experiències",
+    tallerD_Desc: "Les biblioteques humanes substitueixen llibres per persones que comparteixen la seva història en primera persona. Aquesta metodologia internacional promou el diàleg i la superació de prejudicis a través de l’escolta directa.<br><br>El taller presenta l’origen i els principis de les biblioteques humanes i inclou una mostra vivencial: una persona llibre vinculada a processos de migració i acollida compartirà la seva experiència en un format íntim i dialogat. Un espai segur per generar empatia, trencar estereotips i reconèixer la diversitat lingüística, cultural i vital de la ciutat.",
     tallerD_Target: "Alumnat, professorat, tècniques i voluntariat",
     tallerD_Name: "Vero Cano",
     tallerD_Bio: "Professional de l’educació de persones adultes i de l’acció comunitària. És coordinadora de projectes a l’Escola de Vida Les Planes–La Florida (L’Hospitalet). Llicenciada en Ciències Polítiques i de l’Administració (UAB), compta amb formació especialitzada en facilitació de grups i transformació de conflictes, amb acreditació de l’IIFAC-E i un postgrau en Resolució de Conflictes Públics i Mediació Comunitària (UdG).",
@@ -282,7 +290,7 @@ const translations = {
     tallerE_Desc: "Taller que ofereix una mirada crítica i intercultural sobre el dol migratori i els estressors que afecten les persones que migren. Mitjançant dinàmiques participatives reflexionarem sobre com es manifesta aquest procés, com impacta en el benestar emocional, la identitat i els aprenentatges, i com abordar-lo des de l’aula.<br><br>Un espai per repensar metodologies educatives, integrar l’acompanyament emocional i construir pràctiques més respectuoses i inclusives.",
     tallerE_Target: "Professorat, tècniques i voluntariat",
     tallerE_Name: "Judith Olmo",
-    tallerE_Bio: "Psicòloga especialitzada en dol migratori. Professora d’ELE i FIB en diverses escoles de llengües. Màster de professorat d’espanyol com a llengua estrangera i examinadora acreditada DELE. Co-creadora del manual ORALPHA 2 i del kit Vincles d’aprenentatge oral del català per a Òmnium Cultural. Coordina projectes formatius i d’acollida sociolingüística en diferents entitats socials i col·labora amb Escola de Vida i La Troca Sants.",
+    tallerE_Bio: "Psicòloga especialitzada en dol migratori. Professora d’ELE i FIB en diverses escoles de llengües. Màster de professorat d’espanyol com a llengua estrangera i examinadora acreditada DELE. Cocreadora del manual ORALPHA 2 i del material Vincles d’aprenentatge oral del català per a Òmnium Cultural. Coordina projectes formatius i d’acollida sociolingüística en diferents entitats socials i col·labora amb Escola de Vida i La Troca Sants.",
 
     // Taller F
     imgProgramaF: "<img src='img/F. Fatima_Ahmed.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Fàtima Ahmed'> <img src='img/F. irene_garcía.JPG' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Irene García Blasi'>  ",
@@ -291,13 +299,13 @@ const translations = {
     tallerF_Desc: "Taller immersiu que utilitza realitat virtual per experimentar situacions reals d’acollida sociolingüística creades amb dones migrades. Les participants visualitzaran dues versions d’una mateixa escena —una sense acollida i una amb una mirada inclusiva— per identificar microdinàmiques de desigualtat i bones pràctiques. Un espai vivencial per reflexionar sobre l’atenció i incorporar una mirada antiracista en contextos professionals.",
     tallerF_Target: "Professorat, tècniques i voluntariat",
     tallerF_Name: "Fàtima Ahmed i Irene García Blasi",
-    tallerF_Bio: "<b>Fàtima Ahmed Ahmed El Haddad</b> és cofundadora de l’Associació Intercultural Diàlegs de Dona, és una figura clau del treball comunitari al Raval des de fa més de 30 anys. Referent en drets de les dones migrades, combina acció comunitària i incidència política per situar les seves veus i necessitats al centre del debat públic. Des d’una mirada feminista i antiracista, impulsa una ciutat més justa i inclusiva.<br><br><b>Irene García Blasi</b> Professional de Diàlegs de Dona, acompanya dones migrades en els seus processos d’acollida sociolingüística, entenent la llengua com a porta d’entrada als drets i a la participació. Treballa per crear vincles, comunitat i espais d’aprenentatge significatius, i combina l’atenció directa amb el disseny de projectes que milloren els processos d’acollida amb perspectiva de justícia i dignitat.",
+    tallerF_Bio: "<b>Fàtima Ahmed Ahmed El Haddad</b> cofundadora de l’Associació Intercultural Diàlegs de Dona, és una figura clau del treball comunitari al Raval des de fa més de trenta anys. Referent en drets de les dones migrades, combina acció comunitària i incidència política per situar les seves veus i necessitats al centre del debat públic. Des d’una mirada feminista i antiracista, impulsa una ciutat més justa i inclusiva.<br><br><b>Irene García Blasi</b> professional de Diàlegs de Dona, acompanya dones migrades en els seus processos d’acollida sociolingüística, entenent la llengua com a porta d’entrada als drets i a la participació. Treballa per crear vincles, comunitat i espais d’aprenentatge significatius, i combina l’atenció directa amb el disseny de projectes que milloren els processos d’acollida amb perspectiva de justícia i dignitat.",
 
     // Taller G
     imgProgramaG: "<img src='img/G. Denis Olguin.jpg' class='w-40 h-40 rounded-2xl object-cover mb-4 shadow-lg border-2 border-white' alt='Denise Olguín'>",
 
-    tallerG_Title: "TALLER G — Decolonialisme",
-    tallerG_Desc: "Taller introductori per reflexionar sobre les perspectives decolonials aplicades a l’educació, les llengües i els processos d’acollida. Un espai per qüestionar narratives hegemòniques, identificar dinàmiques de poder i explorar eines per incorporar una mirada crítica i transformadora als contextos educatius i comunitaris.",
+    tallerG_Title: "TALLER G — Descolonialisme",
+    tallerG_Desc: "Taller introductori per reflexionar sobre les perspectives descolonials aplicades a l’educació, les llengües i els processos d’acollida. Un espai per qüestionar narratives hegemòniques, identificar dinàmiques de poder i explorar eines per incorporar una mirada crítica i transformadora als contextos educatius i comunitaris.",
     tallerG_Target: "Professorat, tècniques i voluntariat",
     tallerG_Name: "Denise Olguín",
     tallerG_Bio: "Professora i investigadora sobre aprenentatge de llengües i ciutadania intercultural a la UAB i la UPF. Doctora en Traducció i Ciències del Llenguatge. Especialista en didàctica de llengües, educació plurilingüe i interculturalitat. Participa en projectes europeus i forma part de grups de recerca sobre ensenyament de llengües i perspectives crítiques en educació.",
@@ -375,7 +383,7 @@ const translations = {
 
 
 
-    content7: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-flag-checkered text-3xl text-[#7a044b]'></i><p>14:30 – 14:45 h. Conclusions finals i cloenda.</p></div>",
+    content7: "<div class='flex items-center gap-4 bg-purple-50 p-6 rounded-2xl'><i class='fa-solid fa-flag-checkered text-3xl text-[#7a044b]'></i><p>14.30 – 14.45 h. Conclusions finals i cloenda.</p></div>",
 
 
 
@@ -385,21 +393,21 @@ const translations = {
     quisomHeroSubtitle: "Descobreix les entitats que fan possible la I Jornada d’Acollida Sociolingüística",
 
     quisomAcofTitle: "ACOF ",
-    quisomAcofP1: "ACOF és una associació formada per cinc entitats socials (<strong>Bayt Al-Thaqafa, Fundació Camins, Eicascantic, Escola de Vida i La Troca Sants</strong>) que, des de 2011, treballen en l’ensenyament de llengües i l’alfabetització de persones joves i adultes migrades.",
+    quisomAcofP1: "ACOF és una associació formada per cinc entitats socials (<strong>Bayt Al-Thaqafa, Fundació Camins, Eicascantic, Escola de Vida i La Troca Sants</strong>)  que, des de 2011, treballen en l’ensenyament de llengües i l’alfabetització de persones joves i adultes migrades.",
     quisomAcofP2: "Té com a objectiu millorar la qualitat de l’acollida sociolingüística i reforçar les competències de professionals i voluntariat del sector.",
 
     quisomAcofWhatWeDo: "Què fem?",
 
-    quisomAcofItem1: "<strong>Formació especialitzada:</strong> Cursos i monogràfics per a professionals i voluntariat",
-    quisomAcofItem2: "<strong>Treball en xarxa:</strong> Dinamització de la Coordinadora de la Llengua de Barcelona",
-    quisomAcofItem3: "<strong>Creació de materials:</strong> Materials didàctics com l’ORALPHA 1 i 2 i nous recursos digitals com ORALPHA Digital",
-    quisomAcofItem4: "<strong>Incidència:</strong> Millora de les polítiques d’acollida sociolingüística",
+    quisomAcofItem1: "<strong>Formació especialitzada:</strong> cursos i monogràfics per a professionals i voluntariat",
+    quisomAcofItem2: "<strong>Treball en xarxa:</strong> dinamització de la Coordinadora de la Llengua de Barcelona",
+    quisomAcofItem3: "<strong>Creació de materials:</strong> materials didàctics com l’ORALPHA 1 i 2 i nous recursos digitals com ORALPHA Digital",
+    quisomAcofItem4: "<strong>Incidència:</strong> millora de les polítiques d’acollida sociolingüística",
 
-    quisomAcofButton: "Llegir més sobre ACOF",
+    quisomAcofButton: "Llegeix més sobre ACOF",
     quisomAcofBox: "Des del 2011, impulsant una acollida sociolingüística de qualitat.",
 
     quisomCoordTitle: "Coordinadora de la Llengua de Barcelona",
-    quisomCoordP1: "La Coordinadora de la Llengua és un espai de treball col·laboratiu que forma part de la <strong>Xarxa d’Acollida i Acompanyament de Barcelona</strong>, impulsada per l’Ajuntament de Barcelona.",
+    quisomCoordP1: "La Coordinadora de la Llengua és un espai de treball col·laboratiu que forma part de la <strong> Xarxa d’Acollida i Acompanyament de Barcelona</strong>, impulsada per l’Ajuntament de Barcelona.",
     quisomCoordP2: "Agrupa més de 60 entitats que treballen en l’acollida sociolingüística de persones migrades.",
 
     quisomCoordWhatDoes: "Què fa?",
@@ -411,9 +419,9 @@ const translations = {
 
     quisomCoordButton: "Més informació sobre la Xarxa d’Acollida",
 
-    quisomMotorTitle: "Grup motor de la jornada",
-    quisomMotorIntro: "Aquesta jornada ha estat impulsada per un <span class=\"text-white font-bold underline decoration-purple-400\">grup motor</span> format per professionals de diverses entitats que treballen en l’àmbit de l’acollida sociolingüística:",
-    quisomMotorClosing: "Aquest grup ha treballat col·laborativament en la conceptualització i organització, mantenint un diàleg continuat amb la <span class=\"font-bold text-white\">Coordinadora de la Llengua</span> per reforçar el caràcter col·lectiu de la jornada."
+    quisomMotorTitle: "Grup motor de la Jornada",
+    quisomMotorIntro: "Aquesta Jornada ha estat impulsada per un <span class=\"text-white font-bold underline decoration-purple-400\">grup motor</span> format per professionals de diverses entitats que treballen en l’àmbit de l’acollida sociolingüística:",
+    quisomMotorClosing: "Aquest grup ha treballat col·laborativament en la conceptualització i l’organització, mantenint un diàleg continuat amb la <span class=\"font-bold text-white\">Coordinadora de la Llengua</span> per reforçar el caràcter col·lectiu de la Jornada."
 
   },
   es: {
