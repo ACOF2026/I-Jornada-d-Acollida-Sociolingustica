@@ -177,7 +177,7 @@ const translations = {
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Marta Salicrú</h4> 
             <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comisionada de Uso Social del Catalán</p> 
-            <p class="text-sm text-gray-500 mt-2">Ayuntamiento de Barcelona</p> 
+            <p class="text-sm text-gray-500 mt-2">Ayuntament de Barcelona</p> 
           </div> 
         </div> 
 
