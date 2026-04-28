@@ -181,10 +181,22 @@ const translations = {
           </div> 
         </div> 
 
+        <!-- Sonia Fuertes Ledesma--> 
+        <div class="resMo flex gap-4 md:gap-5 group"> 
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
+            <img src="img/Sonia Fuertes Ledesma.jpeg" alt="Sonia Fuertes Ledesma" class="w-full h-full object-cover"> 
+          </div> 
+          <div class="pt-1"> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Sonia Fuertes Ledesma</h4> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comissionada d'Acció Social</p> 
+            <p class="text-sm text-gray-500 mt-2">Ajuntament de Barcelona</p> 
+          </div> 
+        </div> 
+
          <!-- Vicent Barberà Manrique --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Vicent Barberà.jpg" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
@@ -636,10 +648,22 @@ const translations = {
           </div> 
         </div> 
 
+        <!-- Sonia Fuertes Ledesma--> 
+        <div class="resMo flex gap-4 md:gap-5 group"> 
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
+            <img src="img/Sonia Fuertes Ledesma.jpeg" alt="Sonia Fuertes Ledesma" class="w-full h-full object-cover"> 
+          </div> 
+          <div class="pt-1"> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Sonia Fuertes Ledesma</h4> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Comisionada de Acción Social</p> 
+            <p class="text-sm text-gray-500 mt-2">Ayuntamiento de Barcelona</p> 
+          </div> 
+        </div>
+
         <!-- Vicent Barberà Manrique --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Vicent Barberà.jpg" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
@@ -1069,10 +1093,22 @@ const translations = {
           </div> 
         </div> 
 
+        <!-- Sonia Fuertes Ledesma--> 
+        <div class="resMo flex gap-4 md:gap-5 group"> 
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
+            <img src="img/Sonia Fuertes Ledesma.jpeg" alt="Sonia Fuertes Ledesma" class="w-full h-full object-cover"> 
+          </div> 
+          <div class="pt-1"> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Ms. Sonia Fuertes Ledesma</h4> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Commissioner for Social Action</p> 
+            <p class="text-sm text-gray-500 mt-2">Barcelona City Council</p> 
+          </div> 
+        </div>
+
         <!-- Vicent Barberà Manrique --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/" alt="Mr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Vicent Barberà.jpg" alt="Mr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Mr. Vicent Barberà Manrique</h4> 
@@ -1320,7 +1356,7 @@ const translations = {
     quisomMotorTitle: "Conference Organizing Group",
     quisomMotorIntro: "This Conference has been promoted by a <span class=\"text-white font-bold underline decoration-purple-400\">steering group</span> made up of professionals from various organizations working in the field of sociolinguistic reception:",
     quisomMotorClosing: "This group has worked collaboratively on the conceptualization and organization, maintaining continuous dialogue with the <span class=\"font-bold text-white\">Coordinadora de la Llengua</span> to strengthen the collective nature of the Conference."
-   }
+  }
 };
 
 let currentLang = localStorage.getItem("lang") || "ca";
