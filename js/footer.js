@@ -87,8 +87,6 @@ function loadFooter() {
             <img src="img/Casa Asia.png" class="h-16  object-contain">
             <img src="img/Logo_Dialegs_v2 (1).png" class="h-16 w-32 object-contain">
             <img src="img/Accem.png" class="h-16 w-32 object-contain">
-            <img src="img/Associació de Mestres Rosa Sensat.png" class="h-16 w-32 object-contain">
-
           </div>
         </div>
       </div>
