@@ -199,7 +199,7 @@ const translations = {
             <img src="img/Gemma Verdés Prieto.jpeg" alt="Sra. Gemma Verdés Prieto" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
-            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Gemma Verdés Prieto</h4> 
             <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Directora general de Formació al Llarg de la Vida</p> 
             <p class="text-sm text-gray-500 mt-2">Departament d’Educació i Formació Professional</p> 
           </div> 
@@ -657,7 +657,7 @@ const translations = {
             <img src="img/Gemma Verdés Prieto.jpeg" alt="Sra. Gemma Verdés Prieto" class="w-full h-full object-cover">
           </div>
           <div class="pt-1">
-            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4>
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sra. Gemma Verdés Prieto</h4>
             <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Directora general de Formación a lo largo de la Vida</p>
             <p class="text-sm text-gray-500 mt-2">Departamento de Educación y Formación Profesional</p>
           </div>
@@ -1102,7 +1102,7 @@ const translations = {
             <img src="img/Gemma Verdés Prieto.jpeg" alt="Sra. Gemma Verdés Prieto" class="w-full h-full object-cover">
           </div>
           <div class="pt-1">
-            <h4 class="font-bold text-gray-900 text-base md:text-lg">Mr Vicent Barberà Manrique</h4>
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Ms. Gemma Verdés Prieto</h4>
             <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Director-General of Long Life Training</p>
             <p class="text-sm text-gray-500 mt-2">Department of Education and Vocational Training</p>
           </div>
