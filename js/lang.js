@@ -193,14 +193,14 @@ const translations = {
           </div> 
         </div> 
 
-         <!-- Vicent Barberà Manrique --> 
+         <!-- Gemma Verdés Prieto --> 
         <div class="resMo flex gap-4 md:gap-5 group"> 
           <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/Vicent Barberà.jpg" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
+            <img src="img/Gemma Verdés Prieto.jpeg" alt="Sra. Gemma Verdés Prieto" class="w-full h-full object-cover"> 
           </div> 
           <div class="pt-1"> 
             <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
-            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Cap de Servei de Formació al llarg de la Vida</p> 
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Directora general de Formació al Llarg de la Vida</p> 
             <p class="text-sm text-gray-500 mt-2">Departament d’Educació i Formació Professional</p> 
           </div> 
         </div> 
@@ -651,17 +651,17 @@ const translations = {
           </div> 
         </div>
 
-        <!-- Vicent Barberà Manrique --> 
-        <div class="resMo flex gap-4 md:gap-5 group"> 
-          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/Vicent Barberà.jpg" alt="Sr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
-          </div> 
-          <div class="pt-1"> 
-            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4> 
-            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Jefe del Servicio de Formación a lo largo de la Vida</p> 
-            <p class="text-sm text-gray-500 mt-2">Departamento de Educación y Formación Profesional</p> 
-          </div> 
-        </div> 
+        <!-- Gemma Verdés Prieto -->
+        <div class="resMo flex gap-4 md:gap-5 group">
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white">
+            <img src="img/Gemma Verdés Prieto.jpeg" alt="Sra. Gemma Verdés Prieto" class="w-full h-full object-cover">
+          </div>
+          <div class="pt-1">
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Sr. Vicent Barberà Manrique</h4>
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Directora general de Formación a lo largo de la Vida</p>
+            <p class="text-sm text-gray-500 mt-2">Departamento de Educación y Formación Profesional</p>
+          </div>
+        </div>
 
       </div> 
     </div>
@@ -1096,17 +1096,17 @@ const translations = {
           </div> 
         </div>
 
-        <!-- Vicent Barberà Manrique --> 
-        <div class="resMo flex gap-4 md:gap-5 group"> 
-          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white"> 
-            <img src="img/Vicent Barberà.jpg" alt="Mr. Vicent Barberà Manrique" class="w-full h-full object-cover"> 
-          </div> 
-          <div class="pt-1"> 
-            <h4 class="font-bold text-gray-900 text-base md:text-lg">Mr. Vicent Barberà Manrique</h4> 
-            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Head of Lifelong Learning Service</p> 
-            <p class="text-sm text-gray-500 mt-2">Department of Education and Vocational Training</p> 
-          </div> 
-        </div> 
+        <!-- Gemma Verdés Prieto -->
+        <div class="resMo flex gap-4 md:gap-5 group">
+          <div class="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 rounded-2xl overflow-hidden shadow-md ring-2 ring-white">
+            <img src="img/Gemma Verdés Prieto.jpeg" alt="Sra. Gemma Verdés Prieto" class="w-full h-full object-cover">
+          </div>
+          <div class="pt-1">
+            <h4 class="font-bold text-gray-900 text-base md:text-lg">Mr Vicent Barberà Manrique</h4>
+            <p class="text-[#7a044b] font-semibold mt-1 text-sm md:text-base">Director-General of Long Life Training</p>
+            <p class="text-sm text-gray-500 mt-2">Department of Education and Vocational Training</p>
+          </div>
+        </div>
 
       </div> 
     </div>
